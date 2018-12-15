@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://downapp.mcjy88.com/scplay.ipa</string>
+					<string>http://www.scgamep.com/lotteryserver/scplay.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://downapp.mcjy88.com/Icon-512-sc.png</string>
+					<string>http://www.scgamep.com/lotteryserver/Icon-512-sc.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://downapp.mcjy88.com/Icon-57-sc.png</string>
+					<string>http://www.scgamep.lotteryserver/Icon-57-sc.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
